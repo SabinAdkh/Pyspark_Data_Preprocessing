@@ -5,5 +5,5 @@
 ## Data Source
 ```https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge/data```
 
-### Performed Data Partitioning To for Batch Processing
+### Performed Data Partitioning for Batch Processing
 
