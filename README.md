@@ -5,5 +5,14 @@
 ## Data Source
 ```https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge/data```
 
-### Performed Data Partitioning for Batch Processing
+### Preprocessing
+* Removed Null values
+* Removed Duplicate values
+
+### Feature Extraction
+* Extracted month, year values from datetime column
+* Utilized joins and groupby.
+
+### Data Partitioning
+* Partitioned the cleaned dataset using repartitions.
 
